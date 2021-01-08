@@ -21,4 +21,4 @@ void  rev()
 //    getch();
 }
 
-//<!khfdglnlsdfbk
+//<!khf
